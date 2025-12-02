@@ -8,27 +8,27 @@ Este projeto representa uma interface simples e funcional onde o usuário pode p
 Embora não exista backend conectado, a aplicação simula o envio e exibe mensagens de feedback ao usuário.  
 
 O principal objetivo foi treinar:
-- Estruturação de páginas web  
-- Boas práticas de organização de código  
-- Lógica básica com JavaScript  
-- Validação simples de formulários  
-- Publicação de projetos com GitHub Pages  
+- Estruturação de páginas web.  
+- Boas práticas de organização de código. 
+- Lógica básica com JavaScript.  
+- Validação simples de formulários.  
+- Publicação de projetos com GitHub Pages.
 
 ---
 
 ## 🚀 Funcionalidades  
-- Formulário de solicitação de reembolso com campos essenciais  
-- Validação simples dos campos obrigatórios  
-- Layout limpo e objetivo  
-- Totalmente funcional no front-end sem dependências externas  
+- Formulário de solicitação de reembolso com campos essenciais.  
+- Validação simples dos campos obrigatórios.  
+- Layout limpo e objetivo.  
+- Totalmente funcional no front-end sem dependências externas.  
 
 ---
 
 ## 🛠 Tecnologias Utilizadas  
-- **HTML5** – Estrutura da aplicação  
-- **CSS3** – Estilização e responsividade inicial  
-- **JavaScript** – Lógica, validação e interatividade  
-- **GitHub Pages** – Deploy do projeto  
+- **HTML5** – Estrutura da aplicação. 
+- **CSS3** – Estilização e responsividade inicial.  
+- **JavaScript** – Lógica, validação e interatividade.  
+- **GitHub Pages** – Deploy do projeto.  
 
 ---
 
